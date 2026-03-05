@@ -1,0 +1,45 @@
+{
+  "R": {
+    "Version": "4.3.2",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cran.rstudio.com"
+      }
+    ]
+  },
+  "Packages": {
+    "renv": {
+      "Package": "renv",
+      "Version": "1.0.7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "6e7c0a737d4b4dbfa8a1b89a9a48d2e6",
+      "Requirements": []
+    },
+    "tidyverse": {
+      "Package": "tidyverse",
+      "Version": "2.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "1cb484173a8799699cb79d7fe3bdfe68",
+      "Requirements": []
+    },
+    "xgboost": {
+      "Package": "xgboost",
+      "Version": "1.7.7.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "e65a9d95496522132f67aa15dd63aebd",
+      "Requirements": []
+    },
+    "shapviz": {
+      "Package": "shapviz",
+      "Version": "0.10.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "12f3b0e56b8a45b7898604323863c59b",
+      "Requirements": []
+    }
+  }
+}
